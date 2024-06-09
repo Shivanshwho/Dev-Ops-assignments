@@ -6,6 +6,7 @@
 
 function isAnagram(str1, str2) {
   // adding a comment here
+  //one more
 }
 
 module.exports = isAnagram;
